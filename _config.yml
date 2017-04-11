@@ -78,11 +78,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Manoj Sukhavasi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Intersted in ML"
+  location         : "Bangalore"
+  email            :  "manoj.sukhavasi1@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -90,7 +90,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
